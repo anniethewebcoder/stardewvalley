@@ -1,0 +1,151 @@
+[
+    {
+        "name":"Alex",
+        "season":"Summer",
+        "day":13,
+        "address":"1 River Road",
+        "family":[
+            {"grandmother":"Evelyn"},
+            {"grandfather":"George"}
+        ],
+        "town":"Pelican Town",
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/0/04/Alex.png",
+        "status":"bachelor"
+    },
+    {
+        "name":"Elliott",
+        "address":"Elliott's Cabin",
+        "town":"The Beach",
+        "season":"Fall",
+        "day":5,
+        "family":[],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/b/bd/Elliott.png",
+        "status":"bachelor"
+    },
+    {
+        "name":"Harvey",
+        "town":"Pelican Town",
+        "address":"Medical Clinic",
+        "season":"Winter",
+        "day":14,
+        "family":[],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/9/95/Harvey.png",
+        "status":"bachelor"
+    },
+    {
+        "name":"Sam",
+        "town":"Pelican Town",
+        "address":"1 Willow Lane",
+        "season":"Fall",
+        "day":11,
+        "family":[
+            {
+                "father": "Kent",
+                "mother": "Jodi",
+                "brother": "Vincent"
+            }
+        ],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/9/94/Sam.png",
+        "status":"bachelor"
+    },
+    {
+        "name":"Sebastian",
+        "town":"The Mountain",
+        "address":"24 Mountain Road",
+        "season":"Winter",
+        "day":10,
+        "family":[
+            { "mother": "Robin" },
+            { "step-father": "Demetrius" },
+            { "half-sister": "Maru" }
+        ],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/a/a8/Sebastian.png",
+        "status":"bachelor"
+    },
+    {
+        "name":"Shane",
+        "town":"Cindersap Forest",
+        "address":"Marnie's Ranch",
+        "season":"Spring",
+        "day":20,
+        "family":[
+            { "aunt": "Marnie" },
+            { "god-daughter": "Jas" }
+        ],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/8/8b/Shane.png",
+        "status":"bachelor"
+    },
+    {
+        "name":"Abigail",
+        "town":"Pelican Town",
+        "address":"Pierre's General Store",
+        "season":"Fall",
+        "day":13,
+        "family":[
+            { "father": "Pierre" },
+            { "mother": "Caroline" }
+        ],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/8/88/Abigail.png",
+        "status":"bachelorette"
+    },
+    {
+        "name":"Emily",
+        "town":"Pelican Town",
+        "address":"2 Willow Lane",
+        "season":"Spring",
+        "day":27,
+        "family":[
+            { "sister": "Haley" }
+        ],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/2/28/Emily.png",
+        "status":"bachelorette"
+    },
+    {
+        "name":"Haley",
+        "town":"Pelican Town",
+        "address":"2 Willow Lane",
+        "season":"Spring",
+        "day":14,
+        "family":[
+            { "sister": "Haley" }
+        ],
+        "portrait":"https://stardewvalleywiki.com/mediawiki/images/1/1b/Haley.png",
+        "status":"bachelorette"
+    },
+    {
+        "name":"Leah",
+        "town":"Cindersap Forest",
+        "address":"Leah's Cottage",
+        "season":"Winter",
+        "day":23,
+        "family":[],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/e/e6/Leah.png",
+        "status":"bachelorette"
+    },
+    {
+        "name":"Maru",
+        "town":"The Mountain",
+        "address":"24 Mountain Road",
+        "season":"Summer",  
+        "day":10,
+        "family":[
+            { "father": "Demetrius" },
+            { "mother": "Robin" },
+            { "half-brother": "Sebastian" }
+        ],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Maru.png",
+        "status":"bachelorette"
+    },
+    {
+        "name":"Penny",
+        "town":"Pelican Town",
+        "address":"Trailer",
+        "season":"Fall",
+        "day":2,
+        "family":[
+            { "mother": "Pam" }
+        ],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/a/ab/Penny.png",
+        "status":"bachelorette"
+    }
+]
