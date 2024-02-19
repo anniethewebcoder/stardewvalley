@@ -1,0 +1,265 @@
+[
+    {
+        "name":"Caroline",
+        "town":"Pelican Town",
+        "address":"Pierre's General Store",
+        "season":"Winter",
+        "day":7,
+        "family":[
+            { "husband": "Pierre" },
+            { "daughter": "Abigail"}
+        ],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/8/87/Caroline.png",
+        "status":"married"
+    },
+    {
+        "name":"Pierre",
+        "town":"Pelican Town",
+        "address":"Pierre's General Store",
+        "season":"Spring",
+        "day":26,
+        "family":[
+            { "wife": "Caroline" },
+            { "daughter": "Abigail"}
+        ],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/7/7e/Pierre.png",
+        "status":"married"
+    },
+    {
+        "name":"Gus",
+        "town":"Pelican Town",
+        "address":"The Stardrop Saloon",
+        "season":"Summer",
+        "day":8,
+        "family":[],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/5/52/Gus.png",
+        "status":"unmarried"
+    },
+    {
+        "name":"Clint",
+        "town":"Pelican Town",
+        "address":"Blacksmith",
+        "season":"Winter",
+        "day":26,
+        "family":[],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/3/31/Clint.png",
+        "status":"unmarried"
+    },
+    {
+        "name":"Demetrius",
+        "town":"The Mountain",
+        "address":"24 Mountain Road",
+        "season":"Summer",
+        "day":19,
+        "family":[
+            { "wife": "Robin"},
+            { "daughter": "Maru"},
+            { "step-son": "Sebastian"}
+        ],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/f/f9/Demetrius.png",
+        "status":"married"
+    },
+    {
+        "name":"Robin",
+        "town":"The Mountain",
+        "address":"24 Mountain Road",
+        "season":"Fall",
+        "day":21,
+        "family":[
+            { "husband": "Demetrius"},
+            { "daughter": "Maru"},
+            { "son": "Sebastian"}
+        ],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Robin.png",
+        "status":"married"
+    },
+    {
+        "name":"Dwarf",
+        "town":"The Mines",
+        "address":"Eastern Cave",
+        "season":"Summer",
+        "day":22,
+        "family":[],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Dwarf.png",
+        "status":"spirit"
+    },
+    {
+        "name":"Evelyn",
+        "town":"Pelican Town",
+        "address":"1 River Road",
+        "season":"Winter",
+        "day":20,
+        "family":[
+            { "husband": "George" },
+            { "grandson": "Alex"}
+        ],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/8/8e/Evelyn.png",
+        "status":"married"
+    },
+    {
+        "name":"George",
+        "town":"Pelican Town",
+        "address":"1 River Road",
+        "season":"Fall",
+        "day":24,
+        "family":[
+            { "wife": "Evelyn" },
+            { "grandson": "Alex"}
+        ],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/7/78/George.png",
+        "status":"married"
+    },
+    {
+        "name":"Jas",
+        "town":"Cindersap Forest",
+        "address":"Marnie's Ranch",
+        "season":"Summer",
+        "day":4,
+        "family":[
+            { "aunt": "Marnie" },
+            { "god-father": "Shane"}
+        ],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/7/78/George.png",
+        "status":"child"
+    },
+    {
+        "name":"Jodie",
+        "town":"Pelican Town",
+        "address":"1 Willow Lane",
+        "season":"Fall",
+        "day":11,
+        "family":[
+            { "husband": "Kent" },
+            { "son": "Sam"},
+            { "son": "Vincent"}
+        ],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/4/41/Jodi.png",
+        "status":"married"
+    },
+    {
+        "name":"Kent",
+        "town":"Pelican Town",
+        "address":"1 Willow Lane",
+        "season":"Spring",
+        "day":4,
+        "family":[
+            { "wife": "Jodie" },
+            { "son": "Sam"},
+            { "son": "Vincent"}
+        ],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/9/99/Kent.png",
+        "status":"married"
+    },
+    {
+        "name":"Vincent",
+        "town":"Pelican Town",
+        "address":"1 Willow Lane",
+        "season":"Spring",
+        "day":11,
+        "family":[
+            { "mother": "Jodie" },
+            { "father": "Kent"},
+            { "brother": "Sam"}
+
+        ],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Vincent.png",
+        "status":"child"
+    },
+    {
+        "name":"Krobus",
+        "town":"The Sewers",
+        "address":"Krobus' Shop",
+        "season":"Winter",
+        "day":1,
+        "family":[],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/7/71/Krobus.png",
+        "status":"spirit"
+    },
+    {
+        "name":"Leo",
+        "town":"The Mountain",
+        "address":"Treehouse",
+        "season":"Summer",
+        "day":26,
+        "family":[],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Leo.png",
+        "status":"child"
+    },
+    {
+        "name":"Lewis",
+        "town":"Pelican Town",
+        "address":"Mayor's Manor",
+        "season":"Spring",
+        "day":7,
+        "family":[],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/2/2b/Lewis.png",
+        "status":"unmarried"
+    },
+    {
+        "name":"Linus",
+        "town":"The Mountain",
+        "address":"Tent",
+        "season":"Winter",
+        "day":3,
+        "family":[],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/3/31/Linus.png",
+        "status":"unmarried"
+    },
+    {
+        "name":"Marnie",
+        "town":"Cindersap Forest",
+        "address":"Marnie's Ranch",
+        "season":"Fall",
+        "day":18,
+        "family":[
+            { "niece": "Jas"},
+            { "nephew": "Shane"}
+        ],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/5/52/Marnie.png",
+        "status":"unmarried"
+    },
+    {
+        "name":"Pam",
+        "town":"Pelican Town",
+        "address":"Trailer",
+        "season":"Spring",
+        "day":18,
+        "family":[
+            { "daughter": "Penny"}
+        ],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/d/da/Pam.png",
+        "status":"unmarried"
+    },
+    {
+        "name":"Sandy",
+        "town":"The Desert",
+        "address":"Oasis",
+        "season":"Fall",
+        "day":15,
+        "family":[
+            { "daughter": "Penny"}
+        ],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/4/4e/Sandy.png",
+        "status":"unmarried"
+    },
+    {
+        "name":"Willy",
+        "town":"The Beach",
+        "address":"Fish Shop",
+        "season":"Summer",
+        "day":24,
+        "family":[],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/8/82/Willy.png",
+        "status":"unmarried"
+    },
+    {
+        "name":"Wizard",
+        "town":"Cindersap Forest",
+        "address":"Wizard's Tower",
+        "season":"Winter",
+        "day":17,
+        "family":[],
+        "portrait": "https://stardewvalleywiki.com/mediawiki/images/c/c7/Wizard.png",
+        "status":"unmarried"
+    }
+]
