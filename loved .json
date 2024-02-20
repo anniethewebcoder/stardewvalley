@@ -1,0 +1,161 @@
+[
+    {
+        "name": "Complete Breakfast",
+        "type": "Cooked Dish",
+        "source": "Cooking",
+        "ingredients": [
+            "Fried Egg",
+            "Milk",
+            "Hashbrowns",
+            "Pancakes"
+        ],
+        "recipe": "The Queen of Sauce"
+    },
+    { 
+        "name": "Salmon Dinner",
+        "type": "Cooked Dish",
+        "source": "Cooking",
+        "ingredients": [
+            "Salmon",
+            "Amaranth",
+            "Kale"
+        ],
+        "recipe": "Gus"
+    },
+    {
+        "name": "Crab Cakes",
+        "type": "Cooked Dish",
+        "source": "Cooking",
+        "ingredients": [
+            "Crab",
+            "Wheat Flour",
+            "Egg",
+            "Oil"
+        ],
+        "recipe": "The Queen of Sauce"
+    },
+    {
+        "name": "Duck Feather",
+        "type": "Animal Product",
+        "source": [
+            "Duck",
+            "Traveling Cart"
+        ]
+    },
+    {
+        "name": "Lobster",
+        "type": "Fish",
+        "source": [
+            "Crab Pot: Saltwater"
+        ],
+        "season": "All"
+    },
+    {
+        "name": "Pomegranate",
+        "type": "Fruit",
+        "source": "Pomegranate Tree",
+        "season": "Fall"
+    },
+    { 
+        "name": "Squid Ink",
+        "source": [
+            "Squid Kid",
+            "Squid (Fish Pond)",
+            "Midight Squid (Fish Pond)",
+            "Blue Squid"
+        ]
+    },
+    {
+        "name": "Tom Kha Soup",
+        "type": "Cooked Dish",
+        "source": "Cooking",
+        "recipe": "Sandy",
+        "ingredients": [
+            "Cocounut",
+            "Shrimp",
+            "Common Mushroom"
+        ]
+    }, 
+    {
+        "name": "Coffee",
+        "source": [
+            "Artisan Goods",
+            "The Saloon"
+        ],
+        "ingredients": "Coffee Bean"
+    },
+    {
+        "name": "Pickles",
+        "source": "Artisan Goods",
+        "equipment": "Preserves Jar",
+        "ingredients": "Any Vegetable"
+    },
+    {
+        "name": "Super Meal",
+        "type": "Cooked Dish",
+        "source": "Cooking",
+        "recipe": "Kent",
+        "ingredients": [
+            "Bok Choy",
+            "Cranberries",
+            "Artichoke"
+        ]
+    },
+    {
+        "name": "Truffle Oil",
+        "source": "Artisan Goods",
+        "equipment": "Oil Maker",
+        "ingredients": "Truffle"
+    },
+    {
+        "name": "Wine",
+        "source": "Artisan Goods",
+        "equipment": "Keg",
+        "ingredients": "Any Fruit"
+    },
+    {
+        "name": "Cactus Fruit",
+        "type": "Fruit",
+        "source": [
+            "Desert",
+            "Oasis",
+            "Cactus Seeds"
+        ]
+    },
+    {
+        "name": "Maple Bar",
+        "type": "Cooked Dish",
+        "source": "Cooking",
+        "recipe": "The Queen of Sauce",
+        "ingredients": [
+            "Maple Syrup",
+            "Sugar",
+            "Wheat Flour"
+        ]
+    },
+    {
+        "name": "Pizza",
+        "type": "Cooked Dish",
+        "source": [
+            "Cooking",
+            "Saloon"
+        ],
+        "recipe": [
+            "The Queen of Sauce",
+            "The Saloon"
+        ],
+        "ingredients": [
+            "Wheat Flour",
+            "Tomato",
+            "Cheese"
+        ]
+    },
+    {
+        "name": "Tigerseye",
+        "type": "Mineral",
+        "source": [
+            "Magma Geode",
+            "Omni Geode"
+        ]
+    }
+]

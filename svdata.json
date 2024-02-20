@@ -10,7 +10,11 @@
         ],
         "town":"Pelican Town",
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/0/04/Alex.png",
-        "status":"bachelor"
+        "status":"bachelor",
+        "favorites": [
+            "Complete Breakfast",
+            "Salmon Dinner"
+        ]
     },
     {
         "name":"Elliott",
@@ -20,7 +24,15 @@
         "day":5,
         "family":[],
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/b/bd/Elliott.png",
-        "status":"bachelor"
+        "status":"bachelor",
+        "favorites": [
+            "Crab Cakes",
+            "Duck Feather",
+            "Lobster",
+            "Pomegranate",
+            "Squid Ink",
+            "Tom Kha Soup"
+        ]
     },
     {
         "name":"Harvey",
@@ -30,7 +42,14 @@
         "day":14,
         "family":[],
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/9/95/Harvey.png",
-        "status":"bachelor"
+        "status":"bachelor",
+        "favorites": [
+            "Coffee",
+            "Pickles",
+            "Super Meal",
+            "Truffle Oil",
+            "Wine"
+        ]
     },
     {
         "name":"Sam",
@@ -46,7 +65,13 @@
             }
         ],
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/9/94/Sam.png",
-        "status":"bachelor"
+        "status":"bachelor",
+        "favorites": [
+            "Cactus Fruit",
+            "Maple Bar",
+            "Pizza",
+            "Tigerseye"
+        ]
     },
     {
         "name":"Sebastian",
@@ -60,7 +85,14 @@
             { "half-sister": "Maru" }
         ],
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/a/a8/Sebastian.png",
-        "status":"bachelor"
+        "status":"bachelor",
+        "favorites": [
+            "Frozen Tear",
+            "Obsidian",
+            "Pumpkin Soup",
+            "Sashimi",
+            "Void Egg"
+        ]
     },
     {
         "name":"Shane",
@@ -73,7 +105,13 @@
             { "god-daughter": "Jas" }
         ],
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/8/8b/Shane.png",
-        "status":"bachelor"
+        "status":"bachelor",
+        "favorites": [
+            "Beer",
+            "Hot Pepper",
+            "Pepper Poppers",
+            "Pizza"
+        ]
     },
     {
         "name":"Abigail",
@@ -86,7 +124,16 @@
             { "mother": "Caroline" }
         ],
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/8/88/Abigail.png",
-        "status":"bachelorette"
+        "status":"bachelorette",
+        "favorites": [
+            "Amethyst",
+            "Banana Pudding",
+            "Blackberry Cobbler",
+            "Chocolate Cake",
+            "Pufferfish",
+            "Pumpkin",
+            "Spicy Eel"
+        ]
     },
     {
         "name":"Emily",
@@ -98,7 +145,18 @@
             { "sister": "Haley" }
         ],
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/2/28/Emily.png",
-        "status":"bachelorette"
+        "status":"bachelorette",
+        "favorites": [
+            "Amethyst",
+            "Aquamarine",
+            "Cloth",
+            "Emerald",
+            "Jade",
+            "Ruby",
+            "Survival Burger",
+            "Topaz",
+            "Wool"
+        ]
     },
     {
         "name":"Haley",
