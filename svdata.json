@@ -168,7 +168,13 @@
             { "sister": "Haley" }
         ],
         "portrait":"https://stardewvalleywiki.com/mediawiki/images/1/1b/Haley.png",
-        "status":"bachelorette"
+        "status":"bachelorette",
+        "favorites": [
+            "Coconut",
+            "Fruit Salad",
+            "Pink Cake",
+            "Sunflower"
+        ]
     },
     {
         "name":"Leah",
@@ -178,7 +184,16 @@
         "day":23,
         "family":[],
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/e/e6/Leah.png",
-        "status":"bachelorette"
+        "status":"bachelorette",
+        "favorites": [
+            "Goat Cheese",
+            "Poppyseed Muffin",
+            "Salad",
+            "Stir Fry",
+            "Truffle",
+            "Vegetable Medley",
+            "Wine" 
+        ]
     },
     {
         "name":"Maru",
@@ -192,7 +207,20 @@
             { "half-brother": "Sebastian" }
         ],
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Maru.png",
-        "status":"bachelorette"
+        "status":"bachelorette",
+        "favorites": [
+            "Battery Pack",
+            "Cauliflower",
+            "Cheese Cauliflower",
+            "Diamond",
+            "Gold Bar",
+            "Iridium Bar",
+            "Miner's Treat",
+            "Pepper Poppers",
+            "Radioactive Bar",
+            "Rhubarb Pie",
+            "Strawberry"
+        ]
     },
     {
         "name":"Penny",
@@ -204,6 +232,17 @@
             { "mother": "Pam" }
         ],
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/a/ab/Penny.png",
-        "status":"bachelorette"
+        "status":"bachelorette",
+        "favorites":[
+            "Diamond",
+            "Emerald",
+            "Melon",
+            "Poppy",
+            "Poppyseed Muffin",
+            "Red Plate",
+            "Roots Platter",
+            "Sandfish",
+            "Tom Kha Soup"
+        ]
     }
 ]
