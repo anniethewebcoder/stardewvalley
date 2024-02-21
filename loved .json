@@ -82,10 +82,12 @@
             "Artisan Goods",
             "The Saloon"
         ],
-        "ingredients": "Coffee Bean"
+        "ingredients": "Coffee Bean",
+        "equipment": "Keg"
     },
     {
         "name": "Pickles",
+        "type": "Artisan Good",
         "source": "Artisan Goods",
         "equipment": "Preserves Jar",
         "ingredients": "Any Vegetable"
@@ -103,12 +105,14 @@
     },
     {
         "name": "Truffle Oil",
+        "type":"Artisan Good",
         "source": "Artisan Goods",
         "equipment": "Oil Maker",
         "ingredients": "Truffle"
     },
     {
         "name": "Wine",
+        "type":"Artisan Good",
         "source": "Artisan Goods",
         "equipment": "Keg",
         "ingredients": "Any Fruit"
@@ -116,6 +120,7 @@
     {
         "name": "Cactus Fruit",
         "type": "Fruit",
+        "season": "All",
         "source": [
             "Desert",
             "Oasis",
@@ -157,5 +162,511 @@
             "Magma Geode",
             "Omni Geode"
         ]
+    },
+    {
+        "name": "Frozen Tear",
+        "type": "Mineral",
+        "source": [
+            "The Mines",
+            "Frozen Geode",
+            "Omni Geode",
+            "Dust Sprite",
+            "Panning",
+            "Fishing"
+        ]
+    },
+    {
+        "name": "Obsidian",
+        "type": "Mineral",
+        "source": [
+            "Magma Geode",
+            "Omni Geode"
+        ]
+    },    
+    {
+        "name": "Pumpkin Soup",
+        "type": "Cooked Dish",
+        "source": "Cooking",
+        "recipe": "Robin",
+        "ingredients": [
+            "Pumpkin",
+            "Milk"
+        ]
+    },    
+    {
+        "name": "Sashami",
+        "type": "Cooked Dish",
+        "source": "Cooking",
+        "recipe": "Linus",
+        "ingredients": "Any Fish"
+    },    
+    {
+        "name": "Void Egg",
+        "type": "Animal Product",
+        "source": [
+            "Void Chicken",
+            "Witch",
+            "Krobus",
+            "Void Salmon Fish Pond"
+        ]
+    },    
+    {
+        "name": "Beer",
+        "type": "Artisan Good",
+        "source": [
+            "Artisan Goods",
+            "The Saloon",
+            "Ginger Island Resort"
+        ],
+        "equipment": "Keg",
+        "ingredients": "Wheat"
+    },    
+    {
+        "name": "Hot Pepper",
+        "type": "Fruit",
+        "source": "Pepper Seeds",
+        "season": "Summer"
+    },    
+    {
+        "name": "Pepper Poppers",
+        "type": "Cooked Dish",
+        "source": "Cooking",
+        "recipe": "Shane",
+        "ingredients": [
+            "Hot Pepper",
+            "Cheese"
+        ]
+    },    
+    {
+        "name": "Pizza",
+        "type": "Cooked Dish",
+        "source": [
+            "Cooking",
+            "The Saloon"
+        ],
+        "ingredients": [
+            "Wheat Flour",
+            "Tomato",
+            "Cheese"
+        ]
+    },    
+    {
+        "name": "Amethyst",
+        "type": "Mineral",
+        "source": [
+            "Amethyst Node",
+            "Gem Node",
+            "Green Slime",
+            "Dwarvish Sentry",
+            "Fishing",
+            "Panning"
+        ]
+    },    
+    {
+        "name": "Banana Pudding",
+        "type": "Cooked Dish",
+        "source": "Cooking",
+        "recipe": "Island Trader",
+        "ingredients": [
+            "Banana",
+            "Milk",
+            "Sugar"
+        ]
+    },    
+    {
+        "name": "Blackberry Cobbler",
+        "type":"Cooked Dish",
+        "source": "Cooking",
+        "recipe": "The Queen of Sauce",
+        "ingredients": [
+            "Blackberry",
+            "Sugar", 
+            "Wheat Flour"
+        ]
+    },    
+    {
+        "name": "Chocolate Cake",
+        "type":"Cooked Dish",
+        "source": "Cooking",
+        "recipe": "The Queen of Sauce",
+        "ingredients": [
+            "Wheat Flour",
+            "Sugar",
+            "Egg"
+        ]
+    },    
+    {
+        "name": "Pufferfish",
+        "type": "Fish",
+        "source": [
+            "Ocean",
+            "Ginger Island"
+        ],
+        "season": "Summer"
+    },    
+    {
+        "name": "Pumpkin",
+        "type": "Vegetable",
+        "season": "Fall",
+        "source": "Pumpkin Seeds"
+    },    
+    {
+        "name": "Spicy Eel",
+        "type": "Cooked Dish",
+        "source": [
+            "Cooking",
+            "Desert Trader",
+            "Serpent",
+            "Lava Eel Fish Pond"
+        ],
+        "recipe": "George",
+        "ingredients": [
+            "Eel",
+            "Hot Pepper"
+        ]
+    },
+    {
+        "name": "Aquamarine",
+        "type": "Mineral",
+        "source": [
+            "Aquamarine Node",
+            "Gem Node",
+            "Dwarvish Sentry",
+            "Fishing Treasure Chest",
+            "Panning"
+        ]
+    },
+    {
+        "name": "Cloth",
+        "type": "Artisan Good",
+        "source": [
+            "Artisan Goods",
+            "Recycling",
+            "Mummy",
+            "Desert Trader"
+        ],
+        "equipment": "Loom",
+        "ingredients": "Wool"
+    },
+    {
+        "name": "Emerald",
+        "type": "Mineral",
+        "source": [
+            "Emerald Node",
+            "Gem Node",
+            "Dwarvish Sentry",
+            "Fishing",
+            "Panning"
+        ]
+    },
+    {
+        "name": "Jade",
+        "type": "Mineral",
+        "source": [
+            "Jade Node",
+            "Gem Node",
+            "Dwarvish Sentry",
+            "Fishing",
+            "Blue Slimes",
+            "Tiger Slimes"
+        ]
+    },
+    {
+        "name": "Ruby",
+        "type": "Mineral",
+        "source": [
+            "Ruby Node",
+            "Gem Node",
+            "Dwarvish Sentry",
+            "Fishing",
+            "Panning"
+        ]
+    },
+    {
+        "name": "Survival Burger",
+        "type": "Cooked Dish",
+        "source": "Cooking",
+        "recipe": "Foraging",
+        "ingredients": [
+            "Bread",
+            "Cave Carrot",
+            "Eggplant"
+        ]
+    },
+    {
+        "name": "Topaz",
+        "type": "Mineral",
+        "source": [
+            "Topaz Node",
+            "Gem Node",
+            "Dwarvish Sentry",
+            "Fishing",
+            "Panning"
+        ]
+    },
+    {
+        "name": "Wool",
+        "type": "Animal Product",
+        "source": [
+            "Sheep",
+            "Rabbit"
+        ]
+    },
+    {
+        "name": "Coconut",
+        "type": "Fruit",
+        "source": [
+            "Desert",
+            "Ginger Island",
+            "Oasis"
+        ]
+    },
+    {
+        "name": "Fruit Salad",
+        "type": "Cooked Dish",
+        "source": "Cooking",
+        "recipe": "The Queen of Sauce",
+        "ingredients": [
+            "Blueberry",
+            "Melon",
+            "Apricot"
+        ]
+    },
+    {
+        "name": "Pink Cake",
+        "type": "Cooked Dish",
+        "source": [
+            "Cooking",
+            "Chef's Bundle"
+        ],
+        "recipe": "The Queen of Sauce",
+        "ingredients": [
+            "Melon",
+            "Wheat Flour",
+            "Sugar",
+            "Egg"
+        ]
+    },
+    {
+        "name": "Sunflower",
+        "type": "Flower",
+        "source": "Sunflower Seeds",
+        "season": [
+            "Summer",
+            "Fall"
+        ]
+    },
+    {
+        "name": "Goat Cheese",
+        "type": "Artisan Good",
+        "source":"Artisan Goods",
+        "equipment": "Cheese Press",
+        "ingredients": [
+            "Goat Milk",
+            "Large Goat Milk"
+        ]
+    },
+    {
+        "name": "Poppyseed Muffin",
+        "type": "Cooked Dish",
+        "source": "Cooking",
+        "recipe": "The Queen of Sauce",
+        "ingredients": [
+            "Poppy",
+            "Wheat Flour",
+            "Sugar"
+        ]
+    },
+    {
+        "name": "Salad",
+        "type": "Cooked Dish",
+        "source": [
+            "Cooking",
+            "The Saloon"
+        ],
+        "recipe": "Emily",
+        "ingredients": [
+            "Leek",
+            "Dandelion",
+            "Vinegar"
+        ]
+    },
+    {
+        "name": "Stir Fry",
+        "type": "Cooked Dish",
+        "source": "Cooking",
+        "recipe": "The Queen of Sauce",
+        "ingredients": [
+            "Cave Carrot",
+            "Common Mushroom",
+            "Kale",
+            "Oil"
+        ]
+    },
+    {
+        "name": "Truffle",
+        "type":"Animal Product",
+        "source": "Pig",
+        "season": [
+            "Spring",
+            "Summer",
+            "Fall"
+        ]
+    },
+    {
+        "name": "Vegetable Medley",
+        "type": "Cooked Dish",
+        "source": "Cooking", 
+        "recipe": "Caroline",
+        "ingredients": [
+            "Tomato",
+            "Beet"
+        ]
+    },
+    {
+        "name": "Battery Pack",
+        "source": [
+            "Lightning Rod",
+            "Solar Panel",
+            "Iridium Bat"
+        ]
+    },
+    {
+        "name": "Cauliflower",
+        "type": "Vegetable",
+        "source": "Cauliflower Seeds",
+        "season": "Spring"
+    },
+    {
+        "name": "Cheese Cauliflower",
+        "type": "Cooked Dish",
+        "source": "Cooking",
+        "recipe": "Pam",
+        "ingredients": [
+            "Cauliflower",
+            "Cheese"
+        ]
+    },
+    {
+        "name": "Diamond",
+        "type": "Mineral",
+        "source": [
+            "Diamond Node",
+            "Gem Node",
+            "Monster Drop",
+            "Fishing",
+            "Panning"
+        ]
+    },
+    {
+        "name": "Gold Bar",
+        "type": "Bar",
+        "source": [
+            "Crafting",
+            "Mines",
+            "Monster Drop"
+        ],
+        "equipment": "Furnace",
+        "ingredients": [
+            "Gold Ore",
+            "Coal"
+        ]
+    },
+    {
+        "name": "Iridium Bar",
+        "type": "Bar",
+        "source": [
+            "Crafting",
+            "Shadow Shaman",
+            "Shadow Brute",
+            "Iridium Bat",
+            "Purple Slime",
+            "State of Endless Fortune"
+        ],
+        "equipment": "Furnace",
+        "ingredients": [
+            "Gold Ore",
+            "Coal"
+        ]
+    },
+    {
+        "name": "Miner's Treat",
+        "type": "Cooked Dish",
+        "source": [
+            "Cooking",
+            "Dwarf",
+            "Mummy"
+        ],
+        "recipe": "Mining",
+        "ingredients": [
+            "Cave Carrot",
+            "Sugar",
+            "Milk"
+        ]
+    },
+    {
+        "name": "Radioactive Bar",
+        "type": "Bar",
+        "source": "Crafting",
+        "equipment": "Furnace",
+        "ingredients": [
+            "Radioactive Ore",
+            "Coal"
+        ]
+    },
+    {
+        "name": "Rhubarb Pie",
+        "type": "Cooked Dish",
+        "source": "Cooking",
+        "recipe": "Marnie",
+        "ingredients": [
+            "Rhubarb",
+            "Wheat Flour",
+            "Sugar"
+        ]
+    },
+    {
+        "name": "Strawberry",
+        "type": "Fruit",
+        "season": "Spring",
+        "source": "Strawberry Seeds"
+    },
+    {
+        "name": "Melon",
+        "type": "Fruit",
+        "source": "Melon Seeds",
+        "season":"Summer"
+    },
+    {
+        "name": "Poppy",
+        "type": "Flower",
+        "source": "Poppy Seeds",
+        "season": "Summer"
+    },
+    {
+        "name": "Red Plate",
+        "type": "Cooked Dish",
+        "source": "Cooking",
+        "recipe": "Emily",
+        "ingredients": [
+            "Red Cabbage",
+            "Radish"
+        ]
+    },
+    {
+        "name": "Roots Platter",
+        "type": "Cooked Dish",
+        "source": "Cooking",
+        "recipe": "Combat",
+        "ingredients": [
+            "Cave Carrot",
+            "Winter Root"
+        ]
+    },
+    {
+        "name": "Sandfish",
+        "type": "Fish",
+        "source": "Desert",
+        "season": "All"
     }
 ]
