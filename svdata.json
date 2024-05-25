@@ -11,9 +11,13 @@
         "town":"Pelican Town",
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/0/04/Alex.png",
         "status":"bachelor",
-        "favorites": [
+        "loves": [
             "Complete Breakfast",
             "Salmon Dinner"
+        ],
+        "hates": [
+            "Holly",
+            "Quartz"
         ]
     },
     {
@@ -25,13 +29,20 @@
         "family":[],
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/b/bd/Elliott.png",
         "status":"bachelor",
-        "favorites": [
+        "loves": [
             "Crab Cakes",
             "Duck Feather",
             "Lobster",
             "Pomegranate",
             "Squid Ink",
             "Tom Kha Soup"
+        ],
+        "hates": [
+            "Amaranth",
+            "Quartz",
+            "Salmonberry",
+            "Sea Cucumber",
+            "Super Cucumber"
         ]
     },
     {
@@ -43,12 +54,19 @@
         "family":[],
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/9/95/Harvey.png",
         "status":"bachelor",
-        "favorites": [
+        "loves": [
             "Coffee",
             "Pickles",
             "Super Meal",
             "Truffle Oil",
             "Wine"
+        ],
+        "hates": [
+            "Coral",
+            "Nautilus Shell",
+            "Rainbow Shell",
+            "Salmonberry",
+            "Spice Berry"
         ]
     },
     {
@@ -66,11 +84,24 @@
         ],
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/9/94/Sam.png",
         "status":"bachelor",
-        "favorites": [
+        "loves": [
             "Cactus Fruit",
             "Maple Bar",
             "Pizza",
             "Tigerseye"
+        ],
+        "hates": [
+            "Coal",
+            "Copper Bar",
+            "Duck Mayonnaise",
+            "Gold Bar",
+            "Gold Ore",
+            "Iridium Bar",
+            "Iridium Ore",
+            "Iron Bar",
+            "Mayonnaise",
+            "Pickles",
+            "Refined Quartz"
         ]
     },
     {
@@ -86,12 +117,19 @@
         ],
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/a/a8/Sebastian.png",
         "status":"bachelor",
-        "favorites": [
+        "loves": [
             "Frozen Tear",
             "Obsidian",
             "Pumpkin Soup",
             "Sashimi",
             "Void Egg"
+        ],
+        "hates": [
+            "Clay",
+            "Complete Breakfast",
+            "Farmer's Lunch",
+            "Omelet",
+            "Pina Colada"
         ]
     },
     {
@@ -106,11 +144,15 @@
         ],
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/8/8b/Shane.png",
         "status":"bachelor",
-        "favorites": [
+        "loves": [
             "Beer",
             "Hot Pepper",
             "Pepper Poppers",
             "Pizza"
+        ],
+        "hates": [
+            "Pickles",
+            "Quartz"
         ]
     },
     {
@@ -125,7 +167,7 @@
         ],
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/8/88/Abigail.png",
         "status":"bachelorette",
-        "favorites": [
+        "loves": [
             "Amethyst",
             "Banana Pudding",
             "Blackberry Cobbler",
@@ -133,6 +175,10 @@
             "Pufferfish",
             "Pumpkin",
             "Spicy Eel"
+        ],
+        "hates": [
+            "Clay",
+            "Holly"
         ]
     },
     {
@@ -146,7 +192,7 @@
         ],
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/2/28/Emily.png",
         "status":"bachelorette",
-        "favorites": [
+        "loves": [
             "Amethyst",
             "Aquamarine",
             "Cloth",
@@ -156,6 +202,13 @@
             "Survival Burger",
             "Topaz",
             "Wool"
+        ],
+        "hates": [
+            "Fish Taco",
+            "Holly",
+            "Maki Roll",
+            "Salmon Dinner",
+            "Sashimi"
         ]
     },
     {
@@ -169,11 +222,16 @@
         ],
         "portrait":"https://stardewvalleywiki.com/mediawiki/images/1/1b/Haley.png",
         "status":"bachelorette",
-        "favorites": [
+        "loves": [
             "Coconut",
             "Fruit Salad",
             "Pink Cake",
             "Sunflower"
+        ],
+        "hates": [
+            "Clay",
+            "Prismatic Shard",
+            "Wild Horseradish"
         ]
     },
     {
@@ -185,7 +243,7 @@
         "family":[],
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/e/e6/Leah.png",
         "status":"bachelorette",
-        "favorites": [
+        "loves": [
             "Goat Cheese",
             "Poppyseed Muffin",
             "Salad",
@@ -193,6 +251,13 @@
             "Truffle",
             "Vegetable Medley",
             "Wine" 
+        ],
+        "hates": [
+            "Bread",
+            "Hashbrowns",
+            "Pancakes",
+            "Pizza",
+            "Void Egg"
         ]
     },
     {
@@ -208,7 +273,7 @@
         ],
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Maru.png",
         "status":"bachelorette",
-        "favorites": [
+        "loves": [
             "Battery Pack",
             "Cauliflower",
             "Cheese Cauliflower",
@@ -220,6 +285,13 @@
             "Radioactive Bar",
             "Rhubarb Pie",
             "Strawberry"
+        ],
+        "hates": [
+            "Holly",
+            "Honey",
+            "Pickles",
+            "Snow Yam",
+            "Truffle"
         ]
     },
     {
@@ -233,7 +305,7 @@
         ],
         "portrait": "https://stardewvalleywiki.com/mediawiki/images/a/ab/Penny.png",
         "status":"bachelorette",
-        "favorites":[
+        "loves":[
             "Diamond",
             "Emerald",
             "Melon",
@@ -243,6 +315,16 @@
             "Roots Platter",
             "Sandfish",
             "Tom Kha Soup"
+        ],
+        "hates": [
+            "Beer",
+            "Grape",
+            "Holly",
+            "Hops",
+            "Mead",
+            "Pale Ale",
+            "Rabbit's Foot",
+            "Wine"
         ]
     }
 ]
